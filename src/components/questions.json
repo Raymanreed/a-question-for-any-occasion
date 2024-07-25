@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "text": "[TEMPLATE] Text goes here",
+        "tags": ["[TEMPLATE] tags go here"]
+    },
+    {
+        "id": 2,
+        "text": "Would you rather be covered head to toe in Peanut Butter, or Jelly?",
+        "tags": ["wyr", "general"]
+    },
+    {
+        "id": 3,
+        "text": "If you were going to be any sort of insect, what insect would you be?",
+        "tags": ["general", "tf"]
+    },
+    {
+        "id": 4,
+        "text": "What is your favorite season?",
+        "tags": ["general", "bland", "favorite"]
+    },
+    {
+        "id": 5,
+        "text": "Do you think you could survive on a deserted island for a year?",
+        "tags": ["general", "survive", "time", "dyt"]
+    },
+    {
+        "id": 6,
+        "text": "Do you wash your hands everytime you use the bathroom?",
+        "tags": ["general", "habit"]
+    },
+    {
+        "id": 7,
+        "text": "Are you afraid of the dark?",
+        "tags": ["general", "fear"]
+    },
+    {
+        "id": 8,
+        "text": "Do you think sunsets or sunrises are more beautiful?",
+        "tags": ["general", "dyt", "opinion"]
+    },
+    {
+        "id": 9,
+        "text": "What did you want to be when you grow up?",
+        "tags": ["general", "bland", "dream"]
+    }
+]
