@@ -37,11 +37,66 @@
     {
         "id": 8,
         "text": "Do you think sunsets or sunrises are more beautiful?",
-        "tags": ["general", "dyt", "opinion"]
+        "tags": ["general", "dyt", "opinion", "preference"]
     },
     {
         "id": 9,
         "text": "What did you want to be when you grow up?",
         "tags": ["general", "bland", "dream"]
+    },
+    {
+        "id": 10,
+        "text": "How would your life change if you were a foot taller?",
+        "tags": ["general", "how", "life"]
+    },
+    {
+        "id": 11,
+        "text": "Do you prefer white light or yellow light?",
+        "tags": ["general", "preference", "opinion"]
+    },
+    {
+        "id": 12,
+        "text": "Are you a back, side, or tummy sleeper?",
+        "tags": ["general", "bland", "opinion", "preference"]
+    },
+    {
+        "id": 13,
+        "text": "What's your least favorite chore?",
+        "tags": ["general", "bland", "preference", "chores"]
+    },
+    {
+        "id": 14,
+        "text": "If you could have any superpower, what would it be?",
+        "tags": ["general", "bland", "opinion"]
+    },
+    {
+        "id": 15,
+        "text": "Pens or pencils?",
+        "tags": ["general", "bland", "preference"]
+    },
+    {
+        "id": 16,
+        "text": "Would you rather have a pool full of jello, or a pool full of pudding?",
+        "tags": ["general", "wyr"]
+    },
+    {
+        "id": 17,
+        "text": "Are you generally more cynical or more optimistic?",
+        "tags": ["general", "personality", "life"]
+    },
+    {
+        "id": 18,
+        "text": "Are you a morning person, or a night owl?",
+        "tags": ["general", "bland", "personality"]
+    },
+    {
+        "id": 19,
+        "text": "Chairs or couch?",
+        "tags": ["general", "bland", "furniture"]
+    },
+    {
+        "id": 20,
+        "text": "Do you prefer white noise, or silence for sleep?",
+        "tags": ["general", "sleep", "preference", "bland"]
     }
 ]
